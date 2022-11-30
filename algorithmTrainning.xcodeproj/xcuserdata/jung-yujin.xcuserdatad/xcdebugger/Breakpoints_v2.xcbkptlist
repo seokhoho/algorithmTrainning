@@ -7,15 +7,65 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "C4C93C0F-CBAF-471F-97AE-0A30836B7DFF"
+            uuid = "9DD3F6E3-50AE-423B-B4C8-243A900A73E9"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "algorithmTrainning/main.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "13"
-            endingLineNumber = "13">
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "tile(_:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5E9694C-A8DF-4451-9C21-8EC71C5F6784"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "algorithmTrainning/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "D5E9694C-A8DF-4451-9C21-8EC71C5F6784 - 3ad6e9d2eef92e4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "algorithmTrainning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jung-yujin/Documents/algorithmTrainning/algorithmTrainning/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1361">
+               </Location>
+               <Location
+                  uuid = "D5E9694C-A8DF-4451-9C21-8EC71C5F6784 - 93506270d9207468"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Character) -&gt; Swift.String in algorithmTrainning"
+                  moduleName = "algorithmTrainning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jung-yujin/Documents/algorithmTrainning/algorithmTrainning/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
