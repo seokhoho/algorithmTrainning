@@ -78,5 +78,51 @@
             endingLineNumber = "199">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "617D39F4-BD8E-449D-B296-B424370CA1FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93">
+            <Locations>
+               <Location
+                  uuid = "617D39F4-BD8E-449D-B296-B424370CA1FB - da4da599a98f66cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "algorithmTrainning.changedDay(year: Swift.Int, month: Swift.Int, day: Swift.Int, limit: Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "algorithmTrainning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jung-yujin/Documents/algorithmTrainning/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "145">
+               </Location>
+               <Location
+                  uuid = "617D39F4-BD8E-449D-B296-B424370CA1FB - da4da599a98f66cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "algorithmTrainning.changedDay(year: Swift.Int, month: Swift.Int, day: Swift.Int, limit: Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "algorithmTrainning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jung-yujin/Documents/algorithmTrainning/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "226">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
