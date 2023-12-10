@@ -24,4 +24,4 @@ func solution(_ n:Int64) -> Int64 {
     return Int64(result)!
 }
 
-print(solution(118372))
+//print(solution(118372))
